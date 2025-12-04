@@ -134,11 +134,11 @@ Survei titik fasilitas umum dan layanan strategis.
 Berikut adalah pratinjau antarmuka aplikasi Tapak Bandung dalam berbagai mode dan screen.
 
 <p align="center">
-<img src="assets/home.jpg" width="260" alt="Halaman Beranda Aplikasi" style="margin: 0 5px;">
-<img src="assets/exp.jpg" width="260" alt="Daftar Lokasi berdasarkan Kategori" style="margin: 0 5px;">
-<img src="assets/form.jpg" width="260" alt="Formulir" style="margin: 0 5px;">
-<img src="assets/map.jpg" width="260" alt="Tampilan Peta Interaktif" style="margin: 0 5px;">
-<img src="assets/gmap.jpg" width="260" alt="Tampilan Peta Gmap" style="margin: 0 5px;">
+<img src="assets/images/home.jpg" width="260" alt="Halaman Beranda Aplikasi" style="margin: 0 5px;">
+<img src="assets/images/exp.jpg" width="260" alt="Daftar Lokasi berdasarkan Kategori" style="margin: 0 5px;">
+<img src="assets/images/form.jpg" width="260" alt="Formulir" style="margin: 0 5px;">
+<img src="assets/images/map.jpg" width="260" alt="Tampilan Peta Interaktif" style="margin: 0 5px;">
+<img src="assets/images/gmap.jpg" width="260" alt="Tampilan Peta Gmap" style="margin: 0 5px;">
 </p>
 
 🎯 Tujuan Pengembangan PGPBL 2025
